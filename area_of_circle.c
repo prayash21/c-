@@ -15,8 +15,8 @@ int main(){
     volume = (4.0/3.0) * pi * pow(radius,  3);
 
     printf("The area of the circle is: %.2f\n ", area );
-     printf("The surface area of the circle is: %.2f\n ", surf_area );
-    printf("The volume  of the circle is: %.2f", volume );
+     printf("The surface area of the sphere  is: %.2f\n ", surf_area );
+    printf("The volume  of the  sphere  is: %.2f", volume );
 
     return 0;
 
