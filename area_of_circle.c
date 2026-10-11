@@ -2,7 +2,7 @@
 #include <math.h>
 const float pi = 3.14;
 int main(){
-    // to make a program to calculate the area,surface area  volume  of circle  and sphere 
+    // to make a program to calculate the area of circle ,surface area and volume   sphere 
 
 
     float  area = 0 ,  radius = 0 , volume = 0 , surf_area = 0 ;
